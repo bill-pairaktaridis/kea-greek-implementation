@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kea">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/kea-5.0_full/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
